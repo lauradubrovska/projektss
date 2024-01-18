@@ -21,6 +21,11 @@ Projekts izmanto vairākas Python bibliotēkas:
 2. **Datu Apstrāde:** Dati tiek attīrīti un formatēti, izmantojot funkcijas kā `remove_extra_spaces`, `format_price` un `three_symbols_price`.
 3. **Datu Saglabāšana:** Izstrādāta funkcija `create_excel_file`, kas saglabā apstrādātos datus Excel failā.
 
+## Video Par Programmas Darbību
+Mūsu Programmas Darbības Video
+Piemērs:
+https://failiem.lv/f/drushmgpj6
+
 ## Programmas Izmantošana
 
 Programmu iespējams izmantot, ievadot komandu terminālī:
@@ -28,12 +33,6 @@ Programmu iespējams izmantot, ievadot komandu terminālī:
 ```bash
 2.py "iphone_model"
 Kur "iphone_model" ir vēlamā iPhone modeļa nosaukums.
-
-## Video Par Programmas Darbību
-
-Mūsu Programmas Darbības Video
-Piemērs:
-https://failiem.lv/f/drushmgpj6
 
 Ja vēlaties iegūt informāciju par iPhone 11, izmantojot programmu, ievadiet šādu komandu:
 python 2.py iPhone 11
