@@ -12,7 +12,7 @@ Projekts izmanto vairākas Python bibliotēkas:
 
 - `requests` - Tiešsaistes datu ieguve.
 - `BeautifulSoup` - HTML analīze un datu izguve.
-- `dataclasses` - Datu klasēm vienkārša sintakse.
+- `dataclasses` - Vienkārša sintakse datu klasēm .
 - `xlsxwriter` - Excel failu veidošana un datu ievietošana.
 
 ## Programmatūras Izstrādes Gaita
