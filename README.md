@@ -1,11 +1,11 @@
-# projektss
+# Projektss
 
 
 # Euronics iPhone Datu Izguve
 
 ## Uzdevums
 
-Šī programma ļauj iegūt informāciju par iPhone produktiem no Euronics tīmekļa vietnes. Lietotājs var norādīt konkrētu iPhone modeļa nosaukumu, un programma izvadīs attiecīgos produktus ar to saistītajiem datiem.
+Šī programma ļauj iegūt informāciju par iPhone produktiem no Euronics vietnes. Lietotājs var norādīt konkrēta iPhone modeļa nosaukumu, un lietojumprogramma parādīs attiecīgos produktus ar saistītiem datiem. Lietojumprogramma parādīs tālruņa variantus ar līdzīgiem nosaukumiem, parādīs produkta attēlu, produkta cenu un saiti uz produktu. Tā arī izveido Excel failu ar visiem produktiem no Euronics tīmekļa vietnes.
 
 ## Python Bibliotēkas
 
