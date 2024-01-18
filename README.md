@@ -4,7 +4,7 @@
 
 ## Uzdevums
 
-Šī programma ļauj iegūt informāciju par iPhone produktiem no Euronics vietnes. Lietotājs var norādīt konkrēta iPhone modeļa nosaukumu, un lietojumprogramma parādīs attiecīgos produktus ar saistītiem datiem. Lietojumprogramma parādīs tālruņa variantus ar līdzīgiem nosaukumiem, parādīs produkta attēlu, produkta cenu un saiti uz produktu. Tā arī izveido Excel failu ar visiem produktiem no Euronics tīmekļa vietnes.
+Šī programmatūra ir izstrādāta, lai ļautu lietotājam ērti iegūt informāciju par iPhone produktiem no Euronics tīmekļa vietnes. Uzdevums šai programmā ir sniegt iespēju lietotājam norādīt konkrētu iPhone modeļa nosaukumu, un pēc tam programmā tiks parādīti visi saistītie produkti ar to saistītajiem detalizētiem datiem. Programmā tiks attēloti tālruņa varianti ar līdzīgiem nosaukumiem, piedāvājot lietotājam vizuālu priekšstatu par produktiem, iekļaujot attēlu, cenu un saiti uz preci. Tāpat programma nodrošinās iespēju izveidot Excel failu, kurā būs iekļauti visi iegūtie produkti no Euronics tīmekļa vietnes.
 
 ## Python Bibliotēkas
 
