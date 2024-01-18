@@ -23,15 +23,15 @@ Projekts izmanto vairākas Python bibliotēkas:
 
 ## Programmas Izmantošana
 
-Programmu iespējams izmantot, ievadot komandu terminālā:
+Programmu iespējams izmantot, ievadot komandu terminālī:
 
 ```bash
-2.py <iphone_model>
-Kur <iphone_model> ir vēlamā iPhone modeļa nosaukums.
+2.py "iphone_model"
+Kur "iphone_model" ir vēlamā iPhone modeļa nosaukums.
 
 ## Video Par Programmas Darbību
 
-Jūsu Programmas Darbības Video
+Mūsu Programmas Darbības Video
 Piemērs:
 https://failiem.lv/f/drushmgpj6
 
