@@ -27,18 +27,19 @@ Projekts izmanto vairākas Python bibliotēkas:
 Programmu iespējams izmantot, ievadot komandu terminālā:
 
 ```bash
-python script.py <iphone_model>
+2.py <iphone_model>
 Kur <iphone_model> ir vēlamā iPhone modeļa nosaukums.
 
 ## Video Par Programmas Darbību
 
 Jūsu Programmas Darbības Video
-Piemērs
+Piemērs:
+
 
 Ja vēlaties iegūt informāciju par iPhone 11, izmantojot programmu, ievadiet šādu komandu:
-python script.py iPhone 11
+python 2.py iPhone 11
 
-## Atkarības
+## Biblioteka
 
 Lai varētu izpildīt programmu, ir nepieciešams instalēt šādas atkarības:
 pip install requests
@@ -46,5 +47,6 @@ pip install beautifulsoup4
 pip install xlsxwriter
 
 ## Autori
+Poliakov Bohdan 231RDB415 12 gr. bohdan.poliakov@edu.rtu.lv
+Laura Dubrovska 231RDB049 11 gr. laura.dubrovska@edu.rtu.lv
 
-Lūdzu, aizvietojiet `saite_uz_video` un "Jūsu Vārds, Jūsu E-pasts" ar konkrētu informāciju. Šis ir tikai pamats, un jūs varat pielāgot failu saskaņā ar jūsu vēlmēm un prasībām.
