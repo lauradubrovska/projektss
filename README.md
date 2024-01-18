@@ -34,7 +34,7 @@ Kur <iphone_model> ir vēlamā iPhone modeļa nosaukums.
 
 Jūsu Programmas Darbības Video
 Piemērs:
-
+https://failiem.lv/f/drushmgpj6
 
 Ja vēlaties iegūt informāciju par iPhone 11, izmantojot programmu, ievadiet šādu komandu:
 python 2.py iPhone 11
